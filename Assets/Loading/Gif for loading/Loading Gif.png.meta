@@ -1,0 +1,5263 @@
+fileFormatVersion: 2
+guid: b111eda9e746c21419bae438c1194734
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 9091853006447294053
+    second: Loading Gif_0
+  - first:
+      213: 5694462065050200669
+    second: Loading Gif_1
+  - first:
+      213: 9079890364541064184
+    second: Loading Gif_2
+  - first:
+      213: 4299766637616689607
+    second: Loading Gif_3
+  - first:
+      213: -5737757245902604230
+    second: Loading Gif_4
+  - first:
+      213: -3114733868181617726
+    second: Loading Gif_5
+  - first:
+      213: 5138426042655922343
+    second: Loading Gif_6
+  - first:
+      213: -8879626003166186837
+    second: Loading Gif_7
+  - first:
+      213: 6963757865308294716
+    second: Loading Gif_8
+  - first:
+      213: -3789477021087741715
+    second: Loading Gif_9
+  - first:
+      213: 9013336782468270956
+    second: Loading Gif_10
+  - first:
+      213: -4960796825927527350
+    second: Loading Gif_11
+  - first:
+      213: 5004648118142194696
+    second: Loading Gif_12
+  - first:
+      213: 3043779233104742711
+    second: Loading Gif_13
+  - first:
+      213: 3433650652562304279
+    second: Loading Gif_14
+  - first:
+      213: 1455650297994085926
+    second: Loading Gif_15
+  - first:
+      213: 8691124571828545624
+    second: Loading Gif_16
+  - first:
+      213: -8801835311201927214
+    second: Loading Gif_17
+  - first:
+      213: 1749515742914638966
+    second: Loading Gif_18
+  - first:
+      213: 2017855665960064964
+    second: Loading Gif_19
+  - first:
+      213: -5028951165040624017
+    second: Loading Gif_20
+  - first:
+      213: 3919556157809263341
+    second: Loading Gif_21
+  - first:
+      213: 8611433638880884931
+    second: Loading Gif_22
+  - first:
+      213: -4348169199796525400
+    second: Loading Gif_23
+  - first:
+      213: -7643508768945296365
+    second: Loading Gif_24
+  - first:
+      213: -8665704291794029511
+    second: Loading Gif_25
+  - first:
+      213: -700831477491335054
+    second: Loading Gif_26
+  - first:
+      213: -5636918951078888068
+    second: Loading Gif_27
+  - first:
+      213: 7800767568427835123
+    second: Loading Gif_28
+  - first:
+      213: 5856655012621622649
+    second: Loading Gif_29
+  - first:
+      213: 2006018262070186112
+    second: Loading Gif_30
+  - first:
+      213: 7890977676083178996
+    second: Loading Gif_31
+  - first:
+      213: -771850476957444430
+    second: Loading Gif_32
+  - first:
+      213: 8042536518948081952
+    second: Loading Gif_33
+  - first:
+      213: 5639516809898149046
+    second: Loading Gif_34
+  - first:
+      213: 2523294150718423163
+    second: Loading Gif_35
+  - first:
+      213: 1487330657137292691
+    second: Loading Gif_36
+  - first:
+      213: -606685865113125991
+    second: Loading Gif_37
+  - first:
+      213: -8731393548861670481
+    second: Loading Gif_38
+  - first:
+      213: 5500176402374459396
+    second: Loading Gif_39
+  - first:
+      213: -8030355205011431128
+    second: Loading Gif_40
+  - first:
+      213: -8939716391066236880
+    second: Loading Gif_41
+  - first:
+      213: -7451594260250671981
+    second: Loading Gif_42
+  - first:
+      213: -6105673546479506279
+    second: Loading Gif_43
+  - first:
+      213: -3552587828934272790
+    second: Loading Gif_44
+  - first:
+      213: -6950013524641793847
+    second: Loading Gif_45
+  - first:
+      213: -6027170139973804627
+    second: Loading Gif_46
+  - first:
+      213: 5765091949783407038
+    second: Loading Gif_47
+  - first:
+      213: -7299181158059763668
+    second: Loading Gif_48
+  - first:
+      213: -2988327267966472891
+    second: Loading Gif_49
+  - first:
+      213: 4511391954029496869
+    second: Loading Gif_50
+  - first:
+      213: -1770769090061438750
+    second: Loading Gif_51
+  - first:
+      213: -4872169410964291830
+    second: Loading Gif_52
+  - first:
+      213: 3308392382636145010
+    second: Loading Gif_53
+  - first:
+      213: -2598861471094644677
+    second: Loading Gif_54
+  - first:
+      213: -1850848051645497420
+    second: Loading Gif_55
+  - first:
+      213: -6449386716427025376
+    second: Loading Gif_56
+  - first:
+      213: -3103706570153337485
+    second: Loading Gif_57
+  - first:
+      213: 6964400235759609834
+    second: Loading Gif_58
+  - first:
+      213: -2024370626367449628
+    second: Loading Gif_59
+  - first:
+      213: -4462022311704973798
+    second: Loading Gif_60
+  - first:
+      213: -8457913578778261840
+    second: Loading Gif_61
+  - first:
+      213: 4451313137628569961
+    second: Loading Gif_62
+  - first:
+      213: -6320307553593121395
+    second: Loading Gif_63
+  - first:
+      213: -7609881969711119321
+    second: Loading Gif_64
+  - first:
+      213: -8182761221541198207
+    second: Loading Gif_65
+  - first:
+      213: -7417609172618616358
+    second: Loading Gif_66
+  - first:
+      213: -5931826282331134245
+    second: Loading Gif_67
+  - first:
+      213: -6064052175767067031
+    second: Loading Gif_68
+  - first:
+      213: -1908739169879044649
+    second: Loading Gif_69
+  - first:
+      213: -2327446628297113345
+    second: Loading Gif_70
+  - first:
+      213: 4561516134037782246
+    second: Loading Gif_71
+  - first:
+      213: 1470271347696611916
+    second: Loading Gif_72
+  - first:
+      213: 1977149466367193805
+    second: Loading Gif_73
+  - first:
+      213: 3458825770157483069
+    second: Loading Gif_74
+  - first:
+      213: -4652595959950188489
+    second: Loading Gif_75
+  - first:
+      213: -117235099170816971
+    second: Loading Gif_76
+  - first:
+      213: -6760732265077067636
+    second: Loading Gif_77
+  - first:
+      213: 7792842005127600590
+    second: Loading Gif_78
+  - first:
+      213: -3066590570070650066
+    second: Loading Gif_79
+  - first:
+      213: -3502311154211954964
+    second: Loading Gif_80
+  - first:
+      213: 8226159229181279085
+    second: Loading Gif_81
+  - first:
+      213: -5167870160215831177
+    second: Loading Gif_82
+  - first:
+      213: 8112162298036832419
+    second: Loading Gif_83
+  - first:
+      213: 7614645411389966341
+    second: Loading Gif_84
+  - first:
+      213: -107288214818119415
+    second: Loading Gif_85
+  - first:
+      213: -4732995082823796431
+    second: Loading Gif_86
+  - first:
+      213: -6525645366419927303
+    second: Loading Gif_87
+  - first:
+      213: 7190064949919704288
+    second: Loading Gif_88
+  - first:
+      213: 2578960797827653476
+    second: Loading Gif_89
+  - first:
+      213: 7601698896953846123
+    second: Loading Gif_90
+  - first:
+      213: -7882951592073249235
+    second: Loading Gif_91
+  - first:
+      213: -7343124179102587817
+    second: Loading Gif_92
+  - first:
+      213: 1947907739194561707
+    second: Loading Gif_93
+  - first:
+      213: 3822353383396911022
+    second: Loading Gif_94
+  - first:
+      213: 4161665459958067780
+    second: Loading Gif_95
+  - first:
+      213: 1233948657245939681
+    second: Loading Gif_96
+  - first:
+      213: -595580672228556581
+    second: Loading Gif_97
+  - first:
+      213: -5754262229872796085
+    second: Loading Gif_98
+  - first:
+      213: 3302549525653434611
+    second: Loading Gif_99
+  - first:
+      213: -537490792588857964
+    second: Loading Gif_100
+  - first:
+      213: -2813114707925740580
+    second: Loading Gif_101
+  - first:
+      213: -6551630175386782211
+    second: Loading Gif_102
+  - first:
+      213: 612221361749303914
+    second: Loading Gif_103
+  - first:
+      213: -2461207159668726703
+    second: Loading Gif_104
+  - first:
+      213: -6583901761013254065
+    second: Loading Gif_105
+  - first:
+      213: -2754480539763510790
+    second: Loading Gif_106
+  - first:
+      213: -3108742565868897698
+    second: Loading Gif_107
+  - first:
+      213: 6564846770968510755
+    second: Loading Gif_108
+  - first:
+      213: 8755988721881551044
+    second: Loading Gif_109
+  - first:
+      213: -2808151719973196843
+    second: Loading Gif_110
+  - first:
+      213: -5870686903459214255
+    second: Loading Gif_111
+  - first:
+      213: -1981594875621231572
+    second: Loading Gif_112
+  - first:
+      213: 4702829751807784145
+    second: Loading Gif_113
+  - first:
+      213: 6076193378127983512
+    second: Loading Gif_114
+  - first:
+      213: -5880689592885499509
+    second: Loading Gif_115
+  - first:
+      213: -4309593089247890369
+    second: Loading Gif_116
+  - first:
+      213: 6952518826481579423
+    second: Loading Gif_117
+  - first:
+      213: 903345658282491456
+    second: Loading Gif_118
+  - first:
+      213: -3413860748544006438
+    second: Loading Gif_119
+  - first:
+      213: -6866991943777852898
+    second: Loading Gif_120
+  - first:
+      213: 8892095974779318769
+    second: Loading Gif_121
+  - first:
+      213: 4654245837853297363
+    second: Loading Gif_122
+  - first:
+      213: 6198624822788596508
+    second: Loading Gif_123
+  - first:
+      213: 8026383447509469934
+    second: Loading Gif_124
+  - first:
+      213: 7710932127060949851
+    second: Loading Gif_125
+  - first:
+      213: -6675428358418189767
+    second: Loading Gif_126
+  - first:
+      213: -1448460434785310354
+    second: Loading Gif_127
+  - first:
+      213: 887686390126665482
+    second: Loading Gif_128
+  - first:
+      213: -6880575581391209624
+    second: Loading Gif_129
+  - first:
+      213: -1570923269970342367
+    second: Loading Gif_130
+  - first:
+      213: -4925605548384707175
+    second: Loading Gif_131
+  - first:
+      213: 4343768492481457414
+    second: Loading Gif_132
+  - first:
+      213: 7536502991488887507
+    second: Loading Gif_133
+  - first:
+      213: 3815860555086527969
+    second: Loading Gif_134
+  - first:
+      213: 6350965075461114585
+    second: Loading Gif_135
+  - first:
+      213: -8065354697849766579
+    second: Loading Gif_136
+  - first:
+      213: 8440793478616349217
+    second: Loading Gif_137
+  - first:
+      213: 8523014947009595904
+    second: Loading Gif_138
+  - first:
+      213: -4882233732129355283
+    second: Loading Gif_139
+  - first:
+      213: -7361286635061739976
+    second: Loading Gif_140
+  - first:
+      213: -1044011072596629551
+    second: Loading Gif_141
+  - first:
+      213: 4454042961564351544
+    second: Loading Gif_142
+  - first:
+      213: -5137028108189325721
+    second: Loading Gif_143
+  - first:
+      213: 3024485140386367447
+    second: Loading Gif_144
+  - first:
+      213: -8704650978795493268
+    second: Loading Gif_145
+  - first:
+      213: -2895214388368002046
+    second: Loading Gif_146
+  - first:
+      213: 1270830444108495267
+    second: Loading Gif_147
+  - first:
+      213: 9048004600864214725
+    second: Loading Gif_148
+  - first:
+      213: -2144647927477744490
+    second: Loading Gif_149
+  - first:
+      213: 2813682732349589750
+    second: Loading Gif_150
+  - first:
+      213: -6739121767363314380
+    second: Loading Gif_151
+  - first:
+      213: -1471349843096405262
+    second: Loading Gif_152
+  - first:
+      213: -861750652018459204
+    second: Loading Gif_153
+  - first:
+      213: -3869964655216251241
+    second: Loading Gif_154
+  - first:
+      213: -7983376549788625803
+    second: Loading Gif_155
+  - first:
+      213: -7905876385244330994
+    second: Loading Gif_156
+  - first:
+      213: -936192924962438133
+    second: Loading Gif_157
+  - first:
+      213: 8189681453840685568
+    second: Loading Gif_158
+  - first:
+      213: 1193634404983003881
+    second: Loading Gif_159
+  - first:
+      213: 7153642277564215397
+    second: Loading Gif_160
+  - first:
+      213: 6694850772091443130
+    second: Loading Gif_161
+  - first:
+      213: -2149452642191711110
+    second: Loading Gif_162
+  - first:
+      213: -7086165502091257429
+    second: Loading Gif_163
+  - first:
+      213: 5949190405750555807
+    second: Loading Gif_164
+  - first:
+      213: -787975479755808916
+    second: Loading Gif_165
+  - first:
+      213: -1470350300159641329
+    second: Loading Gif_166
+  - first:
+      213: 3166782923834525457
+    second: Loading Gif_167
+  - first:
+      213: -3105181827378345802
+    second: Loading Gif_168
+  - first:
+      213: 1376954383430605652
+    second: Loading Gif_169
+  - first:
+      213: 7601244069280772676
+    second: Loading Gif_170
+  - first:
+      213: 8887750731147505906
+    second: Loading Gif_171
+  - first:
+      213: 1444210047391455317
+    second: Loading Gif_172
+  - first:
+      213: -3148951604336465424
+    second: Loading Gif_173
+  - first:
+      213: 8810871768878970354
+    second: Loading Gif_174
+  - first:
+      213: 1061850885821367292
+    second: Loading Gif_175
+  - first:
+      213: -2991000675109427355
+    second: Loading Gif_176
+  - first:
+      213: 7198597666305949907
+    second: Loading Gif_177
+  - first:
+      213: -560537335162217416
+    second: Loading Gif_178
+  - first:
+      213: -2224603482976783384
+    second: Loading Gif_179
+  - first:
+      213: 166482408014420515
+    second: Loading Gif_180
+  - first:
+      213: -920795496435457905
+    second: Loading Gif_181
+  - first:
+      213: -6051148635066057903
+    second: Loading Gif_182
+  - first:
+      213: 4752648949910622071
+    second: Loading Gif_183
+  - first:
+      213: 1336536474666862329
+    second: Loading Gif_184
+  - first:
+      213: -6094305065334126951
+    second: Loading Gif_185
+  - first:
+      213: 1897971071072347378
+    second: Loading Gif_186
+  - first:
+      213: 8743886634542160014
+    second: Loading Gif_187
+  - first:
+      213: -2493921640109029523
+    second: Loading Gif_188
+  - first:
+      213: -6325881095653289286
+    second: Loading Gif_189
+  - first:
+      213: -6751244877745825891
+    second: Loading Gif_190
+  - first:
+      213: -7403044976528442547
+    second: Loading Gif_191
+  - first:
+      213: -6799950919322781734
+    second: Loading Gif_192
+  - first:
+      213: 7590988240199112343
+    second: Loading Gif_193
+  - first:
+      213: -5387529209655626792
+    second: Loading Gif_194
+  - first:
+      213: 7935111776807588878
+    second: Loading Gif_195
+  - first:
+      213: -4142241812287568612
+    second: Loading Gif_196
+  - first:
+      213: -1417239510118462276
+    second: Loading Gif_197
+  - first:
+      213: -4523078510439099068
+    second: Loading Gif_198
+  - first:
+      213: -4788108605146830965
+    second: Loading Gif_199
+  - first:
+      213: -8650483450036254542
+    second: Loading Gif_200
+  - first:
+      213: -5001489430859152348
+    second: Loading Gif_201
+  - first:
+      213: 4738634835401675657
+    second: Loading Gif_202
+  - first:
+      213: -9090503649748593410
+    second: Loading Gif_203
+  - first:
+      213: -4155247944766312621
+    second: Loading Gif_204
+  - first:
+      213: -6499078572291305943
+    second: Loading Gif_205
+  - first:
+      213: 6301146249986297166
+    second: Loading Gif_206
+  - first:
+      213: -4094750374869129857
+    second: Loading Gif_207
+  - first:
+      213: -2999793967571156773
+    second: Loading Gif_208
+  - first:
+      213: -4369304094290698471
+    second: Loading Gif_209
+  - first:
+      213: -1130148659680680847
+    second: Loading Gif_210
+  - first:
+      213: -5812430192356898478
+    second: Loading Gif_211
+  - first:
+      213: 3314143549008067068
+    second: Loading Gif_212
+  - first:
+      213: 759860073147331009
+    second: Loading Gif_213
+  - first:
+      213: -266127022212723988
+    second: Loading Gif_214
+  - first:
+      213: -3304023514623915338
+    second: Loading Gif_215
+  - first:
+      213: -1355688014892064493
+    second: Loading Gif_216
+  - first:
+      213: -4455438764419723421
+    second: Loading Gif_217
+  - first:
+      213: -5977536138421193707
+    second: Loading Gif_218
+  - first:
+      213: -8579617690845390751
+    second: Loading Gif_219
+  - first:
+      213: -7978531976716549240
+    second: Loading Gif_220
+  - first:
+      213: -3722744718509310716
+    second: Loading Gif_221
+  - first:
+      213: 1470785617085090641
+    second: Loading Gif_222
+  - first:
+      213: 715655752789071811
+    second: Loading Gif_223
+  - first:
+      213: 1028043330363361484
+    second: Loading Gif_224
+  - first:
+      213: -5576037074974561666
+    second: Loading Gif_225
+  - first:
+      213: 898562136976046221
+    second: Loading Gif_226
+  - first:
+      213: 6325488109364845131
+    second: Loading Gif_227
+  - first:
+      213: 6015907767566612448
+    second: Loading Gif_228
+  - first:
+      213: -2331304257400963717
+    second: Loading Gif_229
+  - first:
+      213: -8828700393194711435
+    second: Loading Gif_230
+  - first:
+      213: -5560966973568033800
+    second: Loading Gif_231
+  - first:
+      213: -8454617795053854561
+    second: Loading Gif_232
+  - first:
+      213: -7753526137976309142
+    second: Loading Gif_233
+  - first:
+      213: 5920943648360543689
+    second: Loading Gif_234
+  - first:
+      213: 7888802307327154085
+    second: Loading Gif_235
+  - first:
+      213: 5687808196383697481
+    second: Loading Gif_236
+  - first:
+      213: -142114067728298612
+    second: Loading Gif_237
+  - first:
+      213: -5929303584258298285
+    second: Loading Gif_238
+  - first:
+      213: 418896445718754160
+    second: Loading Gif_239
+  - first:
+      213: 4644763250051985429
+    second: Loading Gif_240
+  - first:
+      213: -6283414546956865496
+    second: Loading Gif_241
+  - first:
+      213: 5498792093767324100
+    second: Loading Gif_242
+  - first:
+      213: -764887631166167173
+    second: Loading Gif_243
+  - first:
+      213: 4240340862366124464
+    second: Loading Gif_244
+  - first:
+      213: -4343468565767134719
+    second: Loading Gif_245
+  - first:
+      213: -7142276088447600895
+    second: Loading Gif_246
+  - first:
+      213: -4983658394442534202
+    second: Loading Gif_247
+  - first:
+      213: 4864081365480312076
+    second: Loading Gif_248
+  - first:
+      213: -1567166446308802924
+    second: Loading Gif_249
+  - first:
+      213: 1356949265151665906
+    second: Loading Gif_250
+  - first:
+      213: -589841526174979391
+    second: Loading Gif_251
+  - first:
+      213: 1699787317768442232
+    second: Loading Gif_252
+  - first:
+      213: 6747141184915736120
+    second: Loading Gif_253
+  - first:
+      213: 3993465195915177323
+    second: Loading Gif_254
+  - first:
+      213: 6061738359220581173
+    second: Loading Gif_255
+  - first:
+      213: 1661831324432795140
+    second: Loading Gif_256
+  - first:
+      213: 8006966967799302773
+    second: Loading Gif_257
+  - first:
+      213: -4124997678462899061
+    second: Loading Gif_258
+  - first:
+      213: -6864275402355943077
+    second: Loading Gif_259
+  - first:
+      213: 7474006093074097461
+    second: Loading Gif_260
+  - first:
+      213: -8781014137055955651
+    second: Loading Gif_261
+  - first:
+      213: -4262712675817012143
+    second: Loading Gif_262
+  - first:
+      213: -4654266837599136956
+    second: Loading Gif_263
+  - first:
+      213: -7275698698290972188
+    second: Loading Gif_264
+  - first:
+      213: 2959169219137749623
+    second: Loading Gif_265
+  - first:
+      213: -8739575011326958129
+    second: Loading Gif_266
+  - first:
+      213: -1909740463723022088
+    second: Loading Gif_267
+  - first:
+      213: -4883856804644376029
+    second: Loading Gif_268
+  - first:
+      213: 8691660982562337988
+    second: Loading Gif_269
+  - first:
+      213: -9056703707949728072
+    second: Loading Gif_270
+  - first:
+      213: -3430253459832162067
+    second: Loading Gif_271
+  - first:
+      213: -9042418837136174041
+    second: Loading Gif_272
+  - first:
+      213: -5503748196770630191
+    second: Loading Gif_273
+  - first:
+      213: -7705764182155628573
+    second: Loading Gif_274
+  - first:
+      213: -3397096578018075377
+    second: Loading Gif_275
+  - first:
+      213: 6475680025382861693
+    second: Loading Gif_276
+  - first:
+      213: 3077823732268657871
+    second: Loading Gif_277
+  - first:
+      213: 4320587472596145688
+    second: Loading Gif_278
+  - first:
+      213: 4596486763296376129
+    second: Loading Gif_279
+  - first:
+      213: -8530615466977077085
+    second: Loading Gif_280
+  - first:
+      213: -441888001197524567
+    second: Loading Gif_281
+  - first:
+      213: 4855871140020462376
+    second: Loading Gif_282
+  - first:
+      213: -7370867427447266388
+    second: Loading Gif_283
+  - first:
+      213: 6223233219624278782
+    second: Loading Gif_284
+  - first:
+      213: -3471066303734935804
+    second: Loading Gif_285
+  - first:
+      213: 2809542863442402989
+    second: Loading Gif_286
+  - first:
+      213: 6974348149243520550
+    second: Loading Gif_287
+  - first:
+      213: 6138596484564980741
+    second: Loading Gif_288
+  - first:
+      213: -8502677617699130170
+    second: Loading Gif_289
+  - first:
+      213: 4328621303463175477
+    second: Loading Gif_290
+  - first:
+      213: 4928228984011704309
+    second: Loading Gif_291
+  - first:
+      213: -4134122042628212770
+    second: Loading Gif_292
+  - first:
+      213: 7011594055832696862
+    second: Loading Gif_293
+  - first:
+      213: -2535333261983286132
+    second: Loading Gif_294
+  - first:
+      213: -3109047448167761613
+    second: Loading Gif_295
+  - first:
+      213: 5840296688983886522
+    second: Loading Gif_296
+  - first:
+      213: 4474321964336885582
+    second: Loading Gif_297
+  - first:
+      213: -5860707315715523515
+    second: Loading Gif_298
+  - first:
+      213: -2902038052210648821
+    second: Loading Gif_299
+  - first:
+      213: -231137698302426892
+    second: Loading Gif_300
+  - first:
+      213: 8858599952649722589
+    second: Loading Gif_301
+  - first:
+      213: -1941192989231581776
+    second: Loading Gif_302
+  - first:
+      213: -1169406489616809404
+    second: Loading Gif_303
+  - first:
+      213: 3856281477951059816
+    second: Loading Gif_304
+  - first:
+      213: 4095813627674842783
+    second: Loading Gif_305
+  - first:
+      213: -4367124496799098892
+    second: Loading Gif_306
+  - first:
+      213: -8327083633429990698
+    second: Loading Gif_307
+  - first:
+      213: -3088377943507438000
+    second: Loading Gif_308
+  - first:
+      213: -6497516659862709075
+    second: Loading Gif_309
+  - first:
+      213: -2822378438999828210
+    second: Loading Gif_310
+  - first:
+      213: 3612021276275155490
+    second: Loading Gif_311
+  - first:
+      213: 4066681909507224374
+    second: Loading Gif_312
+  - first:
+      213: 9000954732365434127
+    second: Loading Gif_313
+  - first:
+      213: 6592773934138535647
+    second: Loading Gif_314
+  - first:
+      213: -367341931313324073
+    second: Loading Gif_315
+  - first:
+      213: -1036875312541239613
+    second: Loading Gif_316
+  - first:
+      213: 1745917189031076161
+    second: Loading Gif_317
+  - first:
+      213: -6193268232067167691
+    second: Loading Gif_318
+  - first:
+      213: 5565451321683910787
+    second: Loading Gif_319
+  - first:
+      213: -6305080330571008025
+    second: Loading Gif_320
+  - first:
+      213: 6311838151638101546
+    second: Loading Gif_321
+  - first:
+      213: -1462478468976016679
+    second: Loading Gif_322
+  - first:
+      213: 7554473657923501523
+    second: Loading Gif_323
+  - first:
+      213: 3373668272479872492
+    second: Loading Gif_324
+  - first:
+      213: 2710983006280724137
+    second: Loading Gif_325
+  - first:
+      213: -7978069631448563640
+    second: Loading Gif_326
+  - first:
+      213: 7645178746356528457
+    second: Loading Gif_327
+  - first:
+      213: -6845934727885834564
+    second: Loading Gif_328
+  - first:
+      213: 1842435850923495272
+    second: Loading Gif_329
+  - first:
+      213: 2012526444518029321
+    second: Loading Gif_330
+  - first:
+      213: -2971699266681338007
+    second: Loading Gif_331
+  - first:
+      213: 7531458515842115040
+    second: Loading Gif_332
+  - first:
+      213: 6688414803291357432
+    second: Loading Gif_333
+  - first:
+      213: -6071158490318700910
+    second: Loading Gif_334
+  - first:
+      213: 38714595393805374
+    second: Loading Gif_335
+  - first:
+      213: -1824267832794329482
+    second: Loading Gif_336
+  - first:
+      213: -2359301602699536494
+    second: Loading Gif_337
+  - first:
+      213: 4922600107727830803
+    second: Loading Gif_338
+  - first:
+      213: -7222625522155441702
+    second: Loading Gif_339
+  - first:
+      213: 1216125503006733018
+    second: Loading Gif_340
+  - first:
+      213: 6526653374570384049
+    second: Loading Gif_341
+  - first:
+      213: -7315746481969855564
+    second: Loading Gif_342
+  - first:
+      213: -690090374232114597
+    second: Loading Gif_343
+  - first:
+      213: -1966205506206401307
+    second: Loading Gif_344
+  - first:
+      213: -8192221376120096471
+    second: Loading Gif_345
+  - first:
+      213: 8460911355559699716
+    second: Loading Gif_346
+  - first:
+      213: 8317069617206104966
+    second: Loading Gif_347
+  - first:
+      213: 3405487104216553351
+    second: Loading Gif_348
+  - first:
+      213: -5754566870940170879
+    second: Loading Gif_349
+  - first:
+      213: -8977914450326670544
+    second: Loading Gif_350
+  - first:
+      213: -452089784914186506
+    second: Loading Gif_351
+  - first:
+      213: -5706007863364730544
+    second: Loading Gif_352
+  - first:
+      213: -7086582682016678338
+    second: Loading Gif_353
+  - first:
+      213: 8187606635284110291
+    second: Loading Gif_354
+  - first:
+      213: 2712437988183933654
+    second: Loading Gif_355
+  - first:
+      213: -4258147616476679749
+    second: Loading Gif_356
+  - first:
+      213: -1563785035148342616
+    second: Loading Gif_357
+  - first:
+      213: -3149360040249895800
+    second: Loading Gif_358
+  - first:
+      213: -5568322213224021697
+    second: Loading Gif_359
+  - first:
+      213: 261907550748362612
+    second: Loading Gif_360
+  - first:
+      213: 1394765074942297095
+    second: Loading Gif_361
+  - first:
+      213: 8665836666444910783
+    second: Loading Gif_362
+  - first:
+      213: -8255593902672321780
+    second: Loading Gif_363
+  - first:
+      213: 3393673843403505755
+    second: Loading Gif_364
+  - first:
+      213: -6963835450484726085
+    second: Loading Gif_365
+  - first:
+      213: 3210950332111278117
+    second: Loading Gif_366
+  - first:
+      213: -8349493614502143462
+    second: Loading Gif_367
+  - first:
+      213: 564651163534309531
+    second: Loading Gif_368
+  - first:
+      213: 1720435223490937891
+    second: Loading Gif_369
+  - first:
+      213: 7762530533742473599
+    second: Loading Gif_370
+  - first:
+      213: -4021397837524341970
+    second: Loading Gif_371
+  - first:
+      213: 3749767621109622003
+    second: Loading Gif_372
+  - first:
+      213: 2132342477396363106
+    second: Loading Gif_373
+  - first:
+      213: -4748258621626564667
+    second: Loading Gif_374
+  - first:
+      213: 9029831848129043441
+    second: Loading Gif_375
+  - first:
+      213: -3993018637594651043
+    second: Loading Gif_376
+  - first:
+      213: 5766721528735366864
+    second: Loading Gif_377
+  - first:
+      213: 7553769591228659752
+    second: Loading Gif_378
+  - first:
+      213: 24514307816930858
+    second: Loading Gif_379
+  - first:
+      213: -7958772710268056883
+    second: Loading Gif_380
+  - first:
+      213: 2696547626356996487
+    second: Loading Gif_381
+  - first:
+      213: -272284387976858501
+    second: Loading Gif_382
+  - first:
+      213: 5152837852251588041
+    second: Loading Gif_383
+  - first:
+      213: 9136900202729896369
+    second: Loading Gif_384
+  - first:
+      213: -3750609265341350581
+    second: Loading Gif_385
+  - first:
+      213: -4925532010055352299
+    second: Loading Gif_386
+  - first:
+      213: -3018995000450342313
+    second: Loading Gif_387
+  - first:
+      213: -1609628023903435948
+    second: Loading Gif_388
+  - first:
+      213: 982588010325340534
+    second: Loading Gif_389
+  - first:
+      213: 7894611749607540676
+    second: Loading Gif_390
+  - first:
+      213: 4942050632773714639
+    second: Loading Gif_391
+  - first:
+      213: -2936519011607654853
+    second: Loading Gif_392
+  - first:
+      213: 3086231006273684486
+    second: Loading Gif_393
+  - first:
+      213: -2924086538771881678
+    second: Loading Gif_394
+  - first:
+      213: 3705289461208583083
+    second: Loading Gif_395
+  - first:
+      213: -3362607644855774865
+    second: Loading Gif_396
+  - first:
+      213: -4598899145495010810
+    second: Loading Gif_397
+  - first:
+      213: 8179354316720411087
+    second: Loading Gif_398
+  - first:
+      213: -8525147108622705819
+    second: Loading Gif_399
+  - first:
+      213: -5179866552151418737
+    second: Loading Gif_400
+  - first:
+      213: 5563962759261199607
+    second: Loading Gif_401
+  - first:
+      213: -6526707817156484365
+    second: Loading Gif_402
+  - first:
+      213: 2237883671047780683
+    second: Loading Gif_403
+  - first:
+      213: -5168799236487103022
+    second: Loading Gif_404
+  - first:
+      213: -4843367832476616870
+    second: Loading Gif_405
+  - first:
+      213: 1431538239748884560
+    second: Loading Gif_406
+  - first:
+      213: 1714881624481482342
+    second: Loading Gif_407
+  - first:
+      213: -5068718512077848482
+    second: Loading Gif_408
+  - first:
+      213: -8523746202331591873
+    second: Loading Gif_409
+  - first:
+      213: -7985503246503085156
+    second: Loading Gif_410
+  - first:
+      213: 9007339924968088049
+    second: Loading Gif_411
+  - first:
+      213: -4294223011542681364
+    second: Loading Gif_412
+  - first:
+      213: -4071785641995433108
+    second: Loading Gif_413
+  - first:
+      213: -5398288509078899120
+    second: Loading Gif_414
+  - first:
+      213: 4407979595520731399
+    second: Loading Gif_415
+  - first:
+      213: 6754548584804201308
+    second: Loading Gif_416
+  - first:
+      213: -484764976967194711
+    second: Loading Gif_417
+  - first:
+      213: -4734955766470200017
+    second: Loading Gif_418
+  - first:
+      213: -1516422432832443910
+    second: Loading Gif_419
+  - first:
+      213: -337654633904165987
+    second: Loading Gif_420
+  - first:
+      213: 7283173811344510779
+    second: Loading Gif_421
+  - first:
+      213: 5626594555860879723
+    second: Loading Gif_422
+  - first:
+      213: -6448737829778942783
+    second: Loading Gif_423
+  - first:
+      213: 3645936404212592016
+    second: Loading Gif_424
+  - first:
+      213: 8617408253293150231
+    second: Loading Gif_425
+  - first:
+      213: -2181864958116112388
+    second: Loading Gif_426
+  - first:
+      213: -2339396603663865860
+    second: Loading Gif_427
+  - first:
+      213: -3092914102280249345
+    second: Loading Gif_428
+  - first:
+      213: -161017465941163355
+    second: Loading Gif_429
+  - first:
+      213: -3404713445094866494
+    second: Loading Gif_430
+  - first:
+      213: 2860453741389064668
+    second: Loading Gif_431
+  - first:
+      213: 2071541277600805207
+    second: Loading Gif_432
+  - first:
+      213: -2177018842032085790
+    second: Loading Gif_433
+  - first:
+      213: 2324984993539264117
+    second: Loading Gif_434
+  - first:
+      213: -1633215096989974497
+    second: Loading Gif_435
+  - first:
+      213: 6608904069812990399
+    second: Loading Gif_436
+  - first:
+      213: -2595375366189548784
+    second: Loading Gif_0
+  - first:
+      213: -3220727980109681675
+    second: Loading Gif_1
+  - first:
+      213: 4205294849566532993
+    second: Loading Gif_2
+  - first:
+      213: 6859589092565684565
+    second: Loading Gif_3
+  - first:
+      213: -260655227894221759
+    second: Loading Gif_4
+  - first:
+      213: -2261297247919464384
+    second: Loading Gif_5
+  - first:
+      213: 5982421505854033446
+    second: Loading Gif_6
+  - first:
+      213: 1320416135763665907
+    second: Loading Gif_7
+  - first:
+      213: -7701441391755372207
+    second: Loading Gif_8
+  - first:
+      213: 2306158674482660882
+    second: Loading Gif_9
+  - first:
+      213: -15473087823550848
+    second: Loading Gif_10
+  - first:
+      213: -3801378451687171275
+    second: Loading Gif_11
+  - first:
+      213: -255949638283207441
+    second: Loading Gif_12
+  - first:
+      213: 1937306826590929355
+    second: Loading Gif_13
+  - first:
+      213: 5676929636497202367
+    second: Loading Gif_14
+  - first:
+      213: -6300322374942852667
+    second: Loading Gif_15
+  - first:
+      213: 3558872975393481845
+    second: Loading Gif_16
+  - first:
+      213: 2117294204619865767
+    second: Loading Gif_17
+  - first:
+      213: -5547619059639497866
+    second: Loading Gif_18
+  - first:
+      213: 5995256214910857750
+    second: Loading Gif_19
+  - first:
+      213: 1332317075875362594
+    second: Loading Gif_20
+  - first:
+      213: 4297743247344040405
+    second: Loading Gif_21
+  - first:
+      213: -2169891230664224742
+    second: Loading Gif_22
+  - first:
+      213: -7638638636263818899
+    second: Loading Gif_23
+  - first:
+      213: -5474852763747181740
+    second: Loading Gif_24
+  - first:
+      213: -4363789897276483391
+    second: Loading Gif_25
+  - first:
+      213: 8564764378578457673
+    second: Loading Gif_26
+  - first:
+      213: 7035229585045717948
+    second: Loading Gif_27
+  - first:
+      213: -1646233589508034901
+    second: Loading Gif_28
+  - first:
+      213: -6004393941869161887
+    second: Loading Gif_29
+  - first:
+      213: 5094230058364221520
+    second: Loading Gif_30
+  - first:
+      213: 1555440295315987810
+    second: Loading Gif_31
+  - first:
+      213: -792585759556530976
+    second: Loading Gif_32
+  - first:
+      213: 6641861327801228152
+    second: Loading Gif_33
+  - first:
+      213: 8648402727094652739
+    second: Loading Gif_34
+  - first:
+      213: 8788044138919809876
+    second: Loading Gif_35
+  - first:
+      213: -2563485758692390722
+    second: Loading Gif_36
+  - first:
+      213: 2811137197994583569
+    second: Loading Gif_37
+  - first:
+      213: 3369341203700717249
+    second: Loading Gif_38
+  - first:
+      213: -8497072612123434325
+    second: Loading Gif_39
+  - first:
+      213: 6070009989424767648
+    second: Loading Gif_40
+  - first:
+      213: 3607561801819652467
+    second: Loading Gif_41
+  - first:
+      213: 348524522040155835
+    second: Loading Gif_42
+  - first:
+      213: -6585410066069085075
+    second: Loading Gif_43
+  - first:
+      213: 2707737975495411925
+    second: Loading Gif_44
+  - first:
+      213: 2434120499720467306
+    second: Loading Gif_45
+  - first:
+      213: -5256322884362998769
+    second: Loading Gif_46
+  - first:
+      213: 6049037234418438106
+    second: Loading Gif_47
+  - first:
+      213: 6748380538131995880
+    second: Loading Gif_48
+  - first:
+      213: -9193160863771193021
+    second: Loading Gif_49
+  - first:
+      213: -6815711084945362449
+    second: Loading Gif_50
+  - first:
+      213: 3355757368453869463
+    second: Loading Gif_51
+  - first:
+      213: -4156283086712826742
+    second: Loading Gif_52
+  - first:
+      213: 2965308502036282854
+    second: Loading Gif_53
+  - first:
+      213: -2831845100608829080
+    second: Loading Gif_54
+  - first:
+      213: 4675409097437357819
+    second: Loading Gif_55
+  - first:
+      213: -1633013642457244958
+    second: Loading Gif_56
+  - first:
+      213: 8936263520265014135
+    second: Loading Gif_57
+  - first:
+      213: -7657834325682883289
+    second: Loading Gif_58
+  - first:
+      213: 1496100178338533503
+    second: Loading Gif_59
+  - first:
+      213: -2220443264900737886
+    second: Loading Gif_60
+  - first:
+      213: -8925633686580794634
+    second: Loading Gif_61
+  - first:
+      213: -741371590877248718
+    second: Loading Gif_62
+  - first:
+      213: -8256367578813768580
+    second: Loading Gif_63
+  - first:
+      213: 900222663471016878
+    second: Loading Gif_64
+  - first:
+      213: 1682789339008568306
+    second: Loading Gif_65
+  - first:
+      213: -6959330627769275844
+    second: Loading Gif_66
+  - first:
+      213: -334190384229433681
+    second: Loading Gif_67
+  - first:
+      213: -9153580855322219276
+    second: Loading Gif_68
+  - first:
+      213: 3857477114118080871
+    second: Loading Gif_69
+  - first:
+      213: 5231231662106792145
+    second: Loading Gif_70
+  - first:
+      213: 2061439512652668189
+    second: Loading Gif_71
+  - first:
+      213: -9189872789997138018
+    second: Loading Gif_72
+  - first:
+      213: 261295356997080466
+    second: Loading Gif_73
+  - first:
+      213: 7339611940014387324
+    second: Loading Gif_74
+  - first:
+      213: 4565895380194503590
+    second: Loading Gif_75
+  - first:
+      213: 6394825225019632582
+    second: Loading Gif_76
+  - first:
+      213: -8889515737649405793
+    second: Loading Gif_77
+  - first:
+      213: -1210407265811768024
+    second: Loading Gif_78
+  - first:
+      213: 4264554113790638949
+    second: Loading Gif_79
+  - first:
+      213: 6078417320633402881
+    second: Loading Gif_80
+  - first:
+      213: 8435536271466589792
+    second: Loading Gif_81
+  - first:
+      213: -7127557120569559574
+    second: Loading Gif_82
+  - first:
+      213: 7485966563276907574
+    second: Loading Gif_83
+  - first:
+      213: 1122416374030759442
+    second: Loading Gif_84
+  - first:
+      213: 723331695873118057
+    second: Loading Gif_90
+  - first:
+      213: 2491173885951140466
+    second: Loading Gif_91
+  - first:
+      213: -6546263429853996744
+    second: Loading Gif_92
+  - first:
+      213: 6664690918970253135
+    second: Loading Gif_93
+  - first:
+      213: 8351641514244022545
+    second: Loading Gif_94
+  - first:
+      213: -3227753661501092862
+    second: Loading Gif_95
+  - first:
+      213: 4294114298328783223
+    second: Loading Gif_96
+  - first:
+      213: 2373939781910704238
+    second: Loading Gif_97
+  - first:
+      213: -6611720913018625508
+    second: Loading Gif_98
+  - first:
+      213: -8295261213105101946
+    second: Loading Gif_99
+  - first:
+      213: 6464529835905780204
+    second: Loading Gif_100
+  - first:
+      213: -2569706004983471304
+    second: Loading Gif_101
+  - first:
+      213: -8639141897909202534
+    second: Loading Gif_102
+  - first:
+      213: -8878451111708660684
+    second: Loading Gif_103
+  - first:
+      213: 6724376262556562379
+    second: Loading Gif_104
+  - first:
+      213: -4577044708052602942
+    second: Loading Gif_105
+  - first:
+      213: 3940561776479992657
+    second: Loading Gif_106
+  - first:
+      213: -8922099776942633516
+    second: Loading Gif_107
+  - first:
+      213: -6516181985313354674
+    second: Loading Gif_108
+  - first:
+      213: -7821173792847876498
+    second: Loading Gif_109
+  - first:
+      213: 8019373598251332999
+    second: Loading Gif_110
+  - first:
+      213: 3108432814220323564
+    second: Loading Gif_111
+  - first:
+      213: 3214618469820918754
+    second: Loading Gif_112
+  - first:
+      213: -3382261806624269637
+    second: Loading Gif_113
+  - first:
+      213: 3723419887574111423
+    second: Loading Gif_114
+  - first:
+      213: -2326665274316098274
+    second: Loading Gif_115
+  - first:
+      213: -7166302092819711769
+    second: Loading Gif_116
+  - first:
+      213: -2874689542732709071
+    second: Loading Gif_117
+  - first:
+      213: 5063671652565780258
+    second: Loading Gif_118
+  - first:
+      213: 8671531251930327813
+    second: Loading Gif_119
+  - first:
+      213: 6788595860878770561
+    second: Loading Gif_120
+  - first:
+      213: -3391913065492787458
+    second: Loading Gif_121
+  - first:
+      213: 2986464313492543720
+    second: Loading Gif_122
+  - first:
+      213: 5856689711583391824
+    second: Loading Gif_123
+  - first:
+      213: -4959560662350483761
+    second: Loading Gif_124
+  - first:
+      213: -8820991427581408237
+    second: Loading Gif_125
+  - first:
+      213: 3151601322274834265
+    second: Loading Gif_126
+  - first:
+      213: -4696497248807942969
+    second: Loading Gif_127
+  - first:
+      213: -4254308660070380061
+    second: Loading Gif_128
+  - first:
+      213: 6765700527507748895
+    second: Loading Gif_129
+  - first:
+      213: -7017971911097862575
+    second: Loading Gif_130
+  - first:
+      213: -8418405923327752849
+    second: Loading Gif_131
+  - first:
+      213: -3025944405088474051
+    second: Loading Gif_132
+  - first:
+      213: -7085133781136396435
+    second: Loading Gif_133
+  - first:
+      213: -4421397637637885161
+    second: Loading Gif_134
+  - first:
+      213: 5907416065669396839
+    second: Loading Gif_135
+  - first:
+      213: 7278010681350031739
+    second: Loading Gif_136
+  - first:
+      213: 5182762051157831766
+    second: Loading Gif_137
+  - first:
+      213: -7256295919044215323
+    second: Loading Gif_138
+  - first:
+      213: -4670767309111620580
+    second: Loading Gif_139
+  - first:
+      213: 7331023926475707623
+    second: Loading Gif_140
+  - first:
+      213: -1357109972585941842
+    second: Loading Gif_141
+  - first:
+      213: 5288849971922493017
+    second: Loading Gif_142
+  - first:
+      213: 1085649590732177220
+    second: Loading Gif_143
+  - first:
+      213: -3117222954571387358
+    second: Loading Gif_144
+  - first:
+      213: 388074709537571201
+    second: Loading Gif_145
+  - first:
+      213: -3607006083368075546
+    second: Loading Gif_146
+  - first:
+      213: -3625531621566227883
+    second: Loading Gif_147
+  - first:
+      213: 1175797658643002224
+    second: Loading Gif_148
+  - first:
+      213: 419622076296068509
+    second: Loading Gif_149
+  - first:
+      213: 6676314341750269929
+    second: Loading Gif_150
+  - first:
+      213: -7098840450352203142
+    second: Loading Gif_151
+  - first:
+      213: -638531048286518069
+    second: Loading Gif_152
+  - first:
+      213: 6008265308041723923
+    second: Loading Gif_153
+  - first:
+      213: -6818474067152922344
+    second: Loading Gif_154
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Loading Gif_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 15360
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01bf877fadf5bfbd0800000000000000
+      internalID: 9091853006447294053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loading Gif_1
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 15360
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fba66b57fcad43d0800000000000000
+      internalID: 5694462065050200669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loading Gif_2
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 15360
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 185613492653c5a30800000000000000
+      internalID: 9079890364541064184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loading Gif_3
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 15360
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 551958f9fe7223f50800000000000000
+      internalID: 4299766637616689607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loading Gif_4
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 15360
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14434848377f16cf0800000000000000
+      internalID: -5737757245902604230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loading Gif_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 14848
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 040213642224e90e0800000000000000
+      internalID: -3114733868181617726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loading Gif_6
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 14848
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62e4611d9a4d50350800000000000000
+      internalID: 5138426042655922343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loading Gif_7
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 14848
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f323e7ca7f035210800000000000000
+      internalID: -8879626003166186837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loading Gif_8
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 14848
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1595ee1bbdbfe1590800000000000000
+      internalID: 6963757865308294716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loading Gif_9
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 14848
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 216893c881f110020800000000000000
+      internalID: -3789477021087741715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loading Gif_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 14336
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 086e2b00f4709cff0800000000000000
+      internalID: 9013336782468270956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loading Gif_11
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 14336
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53b9c52507ace3bc0800000000000000
+      internalID: -4960796825927527350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loading Gif_12
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 14336
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fec5db9f82fa27cf0800000000000000
+      internalID: 5004648118142194696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loading Gif_13
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 14336
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc144e36b42b2ea10800000000000000
+      internalID: 3043779233104742711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loading Gif_14
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 14336
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbc9d4e3d6188ce40800000000000000
+      internalID: 3433650652562304279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loading Gif_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 13824
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c9f5173e22c098a0800000000000000
+      internalID: 1455650297994085926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loading Gif_16
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 13824
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 574e01b8d18a36130800000000000000
+      internalID: 8691124571828545624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loading Gif_17
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 13824
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ae3c577cd3226d10800000000000000
+      internalID: -8801835311201927214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loading Gif_18
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 13824
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67b40099bd5e203b0800000000000000
+      internalID: 1749515742914638966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loading Gif_19
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 13824
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 612f63363cd633350800000000000000
+      internalID: 2017855665960064964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loading Gif_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 13312
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 227fcb352575d7210800000000000000
+      internalID: -5028951165040624017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loading Gif_21
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 13312
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d976c986b6a4ab30800000000000000
+      internalID: 3919556157809263341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loading Gif_22
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 13312
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a10160b1c6ff2e1e0800000000000000
+      internalID: 8611433638880884931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loading Gif_23
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 13312
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d69bbeda1aa1ef590800000000000000
+      internalID: -4348169199796525400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loading Gif_24
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 13312
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45b984b1b6a6504b0800000000000000
+      internalID: -7643508768945296365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loading Gif_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 12800
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c895627534b073c0800000000000000
+      internalID: -8665704291794029511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loading Gif_26
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 12800
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 944961203d72cd670800000000000000
+      internalID: -700831477491335054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loading Gif_27
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 12800
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb308f9880822a160800000000000000
+      internalID: -5636918951078888068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loading Gif_28
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 12800
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: baeae00c5476729e0800000000000000
+      internalID: 7800767568427835123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loading Gif_29
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 12800
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1629163c58b1caca0800000000000000
+      internalID: 5856655012621622649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loading Gif_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 12288
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 058bae86f3752b640800000000000000
+      internalID: 2006018262070186112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loading Gif_31
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 12288
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26d53af15b8069510800000000000000
+      internalID: 7890977676083178996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loading Gif_32
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 12288
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ec8993737b2005f0800000000000000
+      internalID: -771850476957444430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loading Gif_33
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 12288
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87b1ff200b1ac2c50800000000000000
+      internalID: 8042536518948081952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loading Gif_34
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 12288
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34f0ff6857c450870800000000000000
+      internalID: 5639516809898149046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loading Gif_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 11776
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 453d4c2559765f970800000000000000
+      internalID: 2523294150718423163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loading Gif_36
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 11776
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb80e5ec84bac6cd0800000000000000
+      internalID: 1487330657137292691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loading Gif_37
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 11776
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 116aa55336a230720800000000000000
+      internalID: -606685865113125991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loading Gif_38
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 11776
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c61ba529fd42ce20800000000000000
+      internalID: -8731393548861670481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loading Gif_39
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 11776
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba2aeab8a75541a80800000000000000
+      internalID: 5500176402374459396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loading Gif_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 11264
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a26cb2dce10d3450800000000000000
+      internalID: -8030355205011431128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loading Gif_41
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 11264
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3718ab65852a01230800000000000000
+      internalID: -8939716391066236880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loading Gif_42
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 11264
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbe57bbc43536d400800000000000000
+      internalID: -7451594260250671981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loading Gif_43
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 11264
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d64aba79f6ceb94a0800000000000000
+      internalID: -6105673546479506279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loading Gif_44
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 11264
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d84d3ea751d39520800000000000000
+      internalID: -3552587828934272790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loading Gif_45
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 10752
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a63b55ea2bbb7c120800000000000000
+      internalID: -6950013524641793847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loading Gif_46
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 10752
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0c69c49f2acd07b0800000000000000
+      internalID: -6027170139973804627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loading Gif_47
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 10752
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adf4f96c05f72f350800000000000000
+      internalID: 5765091949783407038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loading Gif_48
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 10752
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ec5480585017ad50800000000000000
+      internalID: -7299181158059763668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loading Gif_49
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 10752
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34115efd6e45b6080800000000000000
+      internalID: -2988327267966472891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loading Gif_50
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 10240
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe1b32221eab961a0800000000000000
+      internalID: 4511391954029496869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loading Gif_51
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 10240
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79fa71b0c8b029e20800000000000000
+      internalID: -1770769090061438750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loading Gif_52
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 10240
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a849486bd8ae156c0800000000000000
+      internalID: -4872169410964291830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loading Gif_53
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 10240
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ed71592f54e62920800000000000000
+      internalID: 3308392382636145010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loading Gif_54
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 10240
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 869c74f72e343b8d0800000000000000
+      internalID: -2598861471094644677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loading Gif_55
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 9728
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf622608dc362e040800000000000000
+      internalID: -1850848051645497420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loading Gif_56
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 9728
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ea18f78ebe5659e0800000000000000
+      internalID: -6449386716427025376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loading Gif_57
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 9728
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77b8da8435cf30c70800000000000000
+      internalID: -3103706570153337485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loading Gif_58
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 9728
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 725f0e4f048e9b590800000000000000
+      internalID: 6964400235759609834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loading Gif_59
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 9728
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f70544e7f2733c410800000000000000
+      internalID: -2024370626367449628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loading Gif_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 9216
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a4deaf6d966f21e0800000000000000
+      internalID: -4462022311704973798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loading Gif_61
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 9216
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fa671cb377c12480800000000000000
+      internalID: -8457913578778261840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loading Gif_62
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 9216
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 233023f477e16b5f0800000000000000
+      internalID: 4451313137628569961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loading Gif_63
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 9216
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7cd0c16e6d7b6d80800000000000000
+      internalID: -6320307553593121395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loading Gif_64
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 9216
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eab22fa2ebb3e7c00800000000000000
+      internalID: -7609881969711119321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loading Gif_65
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 8704
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fb8b6fecf77a5710800000000000000
+      internalID: -8182761221541198207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loading Gif_66
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 8704
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3ae0598aad7b6f90800000000000000
+      internalID: -7417609172618616358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loading Gif_67
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 8704
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fae37acbd97bc5bf0800000000000000
+      internalID: -5931826282331134245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loading Gif_68
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 8704
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fce3b7b5b2f7f080800000000000000
+      internalID: -6064052175767067031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loading Gif_69
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 8704
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 769053c5ff2888530800000000000000
+      internalID: -1908739169879044649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loading Gif_70
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 8192
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d0d6adfa71199840800000000000000
+      internalID: -2327446628297113345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loading Gif_71
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 8192
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1ddd959054bb9c10800000000000000
+      internalID: 4561516134037782246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loading Gif_72
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 8192
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9f41353363077080800000000000000
+      internalID: 1470271347696611916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loading Gif_73
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 8192
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29515472ebe40a300800000000000000
+      internalID: 1977149466367193805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loading Gif_74
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 8192
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c70f5c92c2a8bd560800000000000000
+      internalID: 3458825770157483069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loading Gif_75
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 7680
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ab271a38a15d5f30800000000000000
+      internalID: -4652595959950188489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loading Gif_76
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 7680
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cba00239abfeb850800000000000000
+      internalID: -117235099170816971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loading Gif_77
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 7680
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f90a928098812a480800000000000000
+      internalID: -6760732265077067636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loading Gif_78
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 7680
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82ddcb73105c33fe0800000000000000
+      internalID: 7792842005127600590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loading Gif_79
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 7680
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56bfbe53f5dbe2b30800000000000000
+      internalID: -3066590570070650066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loading Gif_80
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 7168
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1068fe82950ea5450800000000000000
+      internalID: -3502311154211954964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loading Gif_81
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 7168
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06e60b6ab8b011570800000000000000
+      internalID: 8226159229181279085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loading Gif_82
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 7168
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae53520ff84d51d90800000000000000
+      internalID: -5167870160215831177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loading Gif_83
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 7168
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 634629c4dee73e760800000000000000
+      internalID: 8112162298036832419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loading Gif_84
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 7168
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2167f20debf939f00800000000000000
+      internalID: 7614645411389966341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loading Gif_85
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6656
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9012e23efe5d28ef0800000000000000
+      internalID: -107288214818119415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loading Gif_86
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 6656
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 139fd947c06015eb0800000000000000
+      internalID: -4732995082823796431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loading Gif_87
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 6656
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fecd541d104075a0800000000000000
+      internalID: -6525645366419927303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loading Gif_88
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 6656
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e463f33afd38c360800000000000000
+      internalID: 7190064949919704288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loading Gif_89
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 6656
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46fdc248e2f4ac320800000000000000
+      internalID: 2578960797827653476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loading Gif_90
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6144
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96f4c43585ac90a00800000000000000
+      internalID: 7601698896953846123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loading Gif_91
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 6144
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 272e8d1537d629220800000000000000
+      internalID: -7882951592073249235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loading Gif_92
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 6144
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8391c6918100725a0800000000000000
+      internalID: -7343124179102587817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loading Gif_93
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 6144
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4f5efa641dbd7c50800000000000000
+      internalID: 1947907739194561707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loading Gif_94
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 6144
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 111abe355bdf6e370800000000000000
+      internalID: 3822353383396911022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loading Gif_95
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5632
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20cc2cf6527b433d0800000000000000
+      internalID: 4161665459958067780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loading Gif_96
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 5632
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77910d00432c79b30800000000000000
+      internalID: 1233948657245939681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loading Gif_97
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 5632
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e60b4fa67ade1f020800000000000000
+      internalID: -595580672228556581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loading Gif_98
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 5632
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c12e0892cd27e34a0800000000000000
+      internalID: -5754262229872796085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loading Gif_99
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 5632
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6836bc970ef41ec80800000000000000
+      internalID: 3302549525653434611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loading Gif_100
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5120
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce9041d92af96b950800000000000000
+      internalID: -537490792588857964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loading Gif_101
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 5120
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 833a5cbd002965cd0800000000000000
+      internalID: -2813114707925740580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loading Gif_102
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 5120
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a919dea473a9b1880800000000000000
+      internalID: -6551630175386782211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loading Gif_103
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 5120
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43ceee201c769c480800000000000000
+      internalID: 612221361749303914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loading Gif_104
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 5120
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc3b0c16598c15d50800000000000000
+      internalID: -2461207159668726703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loading Gif_105
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4608
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cf617796121b70c0800000000000000
+      internalID: -6583901761013254065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loading Gif_106
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 4608
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15b7296ce00bfa630800000000000000
+      internalID: -2754480539763510790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loading Gif_107
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 4608
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dd0eb036855e2480800000000000000
+      internalID: -3108742565868897698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loading Gif_108
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 4608
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4c0991320fd195a0800000000000000
+      internalID: 6564846770968510755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loading Gif_109
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 4608
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6e25beafdb957390800000000000000
+      internalID: 8755988721881551044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loading Gif_110
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4096
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 785bae49cc98a4f60800000000000000
+      internalID: -2808151719973196843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loading Gif_111
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 4096
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cea25c3ec2f532b20800000000000000
+      internalID: -5870686903459214255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loading Gif_112
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 4096
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ebe51e677e9c9c20800000000000000
+      internalID: -1981594875621231572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loading Gif_113
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 4096
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bba1ace8ecacf01d0800000000000000
+      internalID: 4702829751807784145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loading Gif_114
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 4096
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb4da7409ae3ca330800000000000000
+      internalID: 6076193378127983512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loading Gif_115
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3584
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e15f62d924606bfd0800000000000000
+      internalID: -5880689592885499509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loading Gif_116
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 3584
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e8b75c173e2c8c90800000000000000
+      internalID: -4309593089247890369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loading Gif_117
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 3584
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13303e5771d0b18d0800000000000000
+      internalID: 6952518826481579423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loading Gif_118
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 3584
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 227066e1a86c54640800000000000000
+      internalID: 903345658282491456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loading Gif_119
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 3584
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50b610adab7775870800000000000000
+      internalID: -3413860748544006438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loading Gif_120
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3072
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 181cd5bc7ffe53e50800000000000000
+      internalID: -6866991943777852898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loading Gif_121
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 3072
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efecb4eb9018de0d0800000000000000
+      internalID: 8892095974779318769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loading Gif_122
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 3072
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e89a1c587d027920800000000000000
+      internalID: 4654245837853297363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loading Gif_123
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 3072
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 050fc9a3344274150800000000000000
+      internalID: 6198624822788596508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loading Gif_124
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 3072
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fce299ebad91c2bb0800000000000000
+      internalID: 8026383447509469934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loading Gif_125
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2560
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31c8e30480b859580800000000000000
+      internalID: 7710932127060949851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loading Gif_126
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 2560
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 957c7d764bcbcbb20800000000000000
+      internalID: -6675428358418189767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loading Gif_127
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 2560
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c40434a2a0b2deb0800000000000000
+      internalID: -1448460434785310354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loading Gif_128
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 2560
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ed03af50d8a5f4c0800000000000000
+      internalID: 887686390126665482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loading Gif_129
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 2560
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f18b5c698c894ed50800000000000000
+      internalID: -6880575581391209624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loading Gif_130
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2048
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 156b75bcab72b9e90800000000000000
+      internalID: -1570923269970342367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loading Gif_131
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 2048
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6541055a60db2b80800000000000000
+      internalID: -4925605548384707175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loading Gif_132
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 2048
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3cee90889fa106d0800000000000000
+      internalID: 4343768492481457414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loading Gif_133
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 2048
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6fae3d5d5c8cad90800000000000000
+      internalID: 7536502991488887507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loading Gif_134
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 2048
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 713b7dd264a04a2c0800000000000000
+      internalID: 3815860555086527969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loading Gif_135
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1536
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 769f8a6ec9b5bf150800000000000000
+      internalID: 6350965075461114585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loading Gif_136
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1536
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b790e557720b00560800000000000000
+      internalID: -8065354697849766579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loading Gif_137
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1536
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65033a640aedce740800000000000000
+      internalID: 8440793478616349217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loading Gif_138
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 1536
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5edb040ae457c4b90800000000000000
+      internalID: 8523014947009595904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loading Gif_139
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 1536
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1c05ef01e91e2fb0800000000000000
+      internalID: -4882233732129355283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loading Gif_140
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1024
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e459717b670db560800000000000000
+      internalID: -7361286635061739976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loading Gif_141
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1024
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea4ffd29ba39a2de0800000000000000
+      internalID: -1044011072596629551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loading Gif_142
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1024
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95e56c62705c56940800000000000000
+      internalID: 4454042961564351544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loading Gif_143
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 1024
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44fb32efc80011f00800000000000000
+      internalID: -5137028108189325721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loading Gif_144
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 1024
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22e24131d366db4d0800000000000000
+      internalID: 3024485140386367447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loading Gif_145
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 512
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 181cc4864e7b26500800000000000000
+      internalID: -8704650978795493268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loading Gif_146
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 512
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ee3c22f31751fdc0800000000000000
+      internalID: -2895214388368002046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loading Gif_147
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 512
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55a5996f2368fadc0800000000000000
+      internalID: 1270830444108495267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loading Gif_148
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 512
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 073f62badb5415010800000000000000
+      internalID: 9048004600864214725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loading Gif_149
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 512
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9df98d1e0cc2d500800000000000000
+      internalID: -2144647927477744490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loading Gif_150
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e7eedc658807ac50800000000000000
+      internalID: 2813682732349589750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loading Gif_151
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 0
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7a359fb83adb7d90800000000000000
+      internalID: -6739121767363314380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Loading Gif_152
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 0
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc403d8056b7327f0800000000000000
+      internalID: -1471349843096405262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 961779ce731f02a44ad63ee426225dda
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Loading Gif_113: 4702829751807784145
+      Loading Gif_23: -4348169199796525400
+      Loading Gif_26: -700831477491335054
+      Loading Gif_82: -5167870160215831177
+      Loading Gif_103: 612221361749303914
+      Loading Gif_99: 3302549525653434611
+      Loading Gif_124: 8026383447509469934
+      Loading Gif_119: -3413860748544006438
+      Loading Gif_78: 7792842005127600590
+      Loading Gif_139: -4882233732129355283
+      Loading Gif_68: -6064052175767067031
+      Loading Gif_140: -7361286635061739976
+      Loading Gif_104: -2461207159668726703
+      Loading Gif_90: 7601698896953846123
+      Loading Gif_148: 9048004600864214725
+      Loading Gif_87: -6525645366419927303
+      Loading Gif_92: -7343124179102587817
+      Loading Gif_12: 5004648118142194696
+      Loading Gif_150: 2813682732349589750
+      Loading Gif_133: 7536502991488887507
+      Loading Gif_136: -8065354697849766579
+      Loading Gif_125: 7710932127060949851
+      Loading Gif_106: -2754480539763510790
+      Loading Gif_129: -6880575581391209624
+      Loading Gif_141: -1044011072596629551
+      Loading Gif_52: -4872169410964291830
+      Loading Gif_13: 3043779233104742711
+      Loading Gif_75: -4652595959950188489
+      Loading Gif_126: -6675428358418189767
+      Loading Gif_21: 3919556157809263341
+      Loading Gif_17: -8801835311201927214
+      Loading Gif_35: 2523294150718423163
+      Loading Gif_42: -7451594260250671981
+      Loading Gif_1: 5694462065050200669
+      Loading Gif_6: 5138426042655922343
+      Loading Gif_29: 5856655012621622649
+      Loading Gif_117: 6952518826481579423
+      Loading Gif_89: 2578960797827653476
+      Loading Gif_61: -8457913578778261840
+      Loading Gif_58: 6964400235759609834
+      Loading Gif_109: 8755988721881551044
+      Loading Gif_55: -1850848051645497420
+      Loading Gif_54: -2598861471094644677
+      Loading Gif_34: 5639516809898149046
+      Loading Gif_37: -606685865113125991
+      Loading Gif_65: -8182761221541198207
+      Loading Gif_128: 887686390126665482
+      Loading Gif_84: 7614645411389966341
+      Loading Gif_77: -6760732265077067636
+      Loading Gif_46: -6027170139973804627
+      Loading Gif_51: -1770769090061438750
+      Loading Gif_41: -8939716391066236880
+      Loading Gif_14: 3433650652562304279
+      Loading Gif_102: -6551630175386782211
+      Loading Gif_31: 7890977676083178996
+      Loading Gif_36: 1487330657137292691
+      Loading Gif_105: -6583901761013254065
+      Loading Gif_32: -771850476957444430
+      Loading Gif_50: 4511391954029496869
+      Loading Gif_91: -7882951592073249235
+      Loading Gif_107: -3108742565868897698
+      Loading Gif_28: 7800767568427835123
+      Loading Gif_145: -8704650978795493268
+      Loading Gif_57: -3103706570153337485
+      Loading Gif_5: -3114733868181617726
+      Loading Gif_59: -2024370626367449628
+      Loading Gif_100: -537490792588857964
+      Loading Gif_40: -8030355205011431128
+      Loading Gif_81: 8226159229181279085
+      Loading Gif_70: -2327446628297113345
+      Loading Gif_79: -3066590570070650066
+      Loading Gif_85: -107288214818119415
+      Loading Gif_121: 8892095974779318769
+      Loading Gif_39: 5500176402374459396
+      Loading Gif_108: 6564846770968510755
+      Loading Gif_116: -4309593089247890369
+      Loading Gif_27: -5636918951078888068
+      Loading Gif_74: 3458825770157483069
+      Loading Gif_151: -6739121767363314380
+      Loading Gif_49: -2988327267966472891
+      Loading Gif_56: -6449386716427025376
+      Loading Gif_112: -1981594875621231572
+      Loading Gif_134: 3815860555086527969
+      Loading Gif_143: -5137028108189325721
+      Loading Gif_18: 1749515742914638966
+      Loading Gif_7: -8879626003166186837
+      Loading Gif_53: 3308392382636145010
+      Loading Gif_130: -1570923269970342367
+      Loading Gif_47: 5765091949783407038
+      Loading Gif_71: 4561516134037782246
+      Loading Gif_80: -3502311154211954964
+      Loading Gif_120: -6866991943777852898
+      Loading Gif_9: -3789477021087741715
+      Loading Gif_152: -1471349843096405262
+      Loading Gif_24: -7643508768945296365
+      Loading Gif_72: 1470271347696611916
+      Loading Gif_93: 1947907739194561707
+      Loading Gif_94: 3822353383396911022
+      Loading Gif_132: 4343768492481457414
+      Loading Gif_96: 1233948657245939681
+      Loading Gif_10: 9013336782468270956
+      Loading Gif_76: -117235099170816971
+      Loading Gif_44: -3552587828934272790
+      Loading Gif_63: -6320307553593121395
+      Loading Gif_22: 8611433638880884931
+      Loading Gif_142: 4454042961564351544
+      Loading Gif_62: 4451313137628569961
+      Loading Gif_3: 4299766637616689607
+      Loading Gif_118: 903345658282491456
+      Loading Gif_83: 8112162298036832419
+      Loading Gif_88: 7190064949919704288
+      Loading Gif_123: 6198624822788596508
+      Loading Gif_110: -2808151719973196843
+      Loading Gif_60: -4462022311704973798
+      Loading Gif_122: 4654245837853297363
+      Loading Gif_43: -6105673546479506279
+      Loading Gif_111: -5870686903459214255
+      Loading Gif_131: -4925605548384707175
+      Loading Gif_33: 8042536518948081952
+      Loading Gif_0: 9091853006447294053
+      Loading Gif_64: -7609881969711119321
+      Loading Gif_73: 1977149466367193805
+      Loading Gif_86: -4732995082823796431
+      Loading Gif_146: -2895214388368002046
+      Loading Gif_95: 4161665459958067780
+      Loading Gif_127: -1448460434785310354
+      Loading Gif_137: 8440793478616349217
+      Loading Gif_2: 9079890364541064184
+      Loading Gif_66: -7417609172618616358
+      Loading Gif_101: -2813114707925740580
+      Loading Gif_45: -6950013524641793847
+      Loading Gif_19: 2017855665960064964
+      Loading Gif_98: -5754262229872796085
+      Loading Gif_149: -2144647927477744490
+      Loading Gif_138: 8523014947009595904
+      Loading Gif_48: -7299181158059763668
+      Loading Gif_25: -8665704291794029511
+      Loading Gif_67: -5931826282331134245
+      Loading Gif_30: 2006018262070186112
+      Loading Gif_15: 1455650297994085926
+      Loading Gif_11: -4960796825927527350
+      Loading Gif_16: 8691124571828545624
+      Loading Gif_8: 6963757865308294716
+      Loading Gif_144: 3024485140386367447
+      Loading Gif_114: 6076193378127983512
+      Loading Gif_38: -8731393548861670481
+      Loading Gif_115: -5880689592885499509
+      Loading Gif_147: 1270830444108495267
+      Loading Gif_69: -1908739169879044649
+      Loading Gif_135: 6350965075461114585
+      Loading Gif_4: -5737757245902604230
+      Loading Gif_97: -595580672228556581
+      Loading Gif_20: -5028951165040624017
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,155 @@
+fileFormatVersion: 2
+guid: a7a4ca2b2a2ee314c8ca4a5931ef4b90
+ModelImporter:
+  serializedVersion: 20101
+  internalIDToNameTable:
+  - first:
+      74: 914959563856974940
+    second: AC_2_armature|ACAction.001
+  - first:
+      74: -1059270430202203329
+    second: AC_2_armature|AirConHolderRight_low|Take 001|BaseLayer
+  - first:
+      74: -6895619023586342918
+    second: AC_2_armature|cond_ rotor|Take 001|BaseLayer
+  - first:
+      74: 3628974168352306288
+    second: AC_2_armature|cond_ rotor|Take 001|BaseLayer.001
+  - first:
+      74: -3157574430267225519
+    second: AC_2_armature|CoolerTube_low|Take 001|BaseLayer
+  - first:
+      74: 4342998841741403247
+    second: AC_2_armature|Cylinder.001|Cylinder.001|Cylinder.001Action|Cylinder.001|Cylin
+  - first:
+      74: 8826730036691068497
+    second: AC_2_armature|Cylinder.001|Cylinder.001|LightAction|Cylinder.001|LightAction
+  - first:
+      74: 4180056527311209994
+    second: AC_2_armature|GratingPlane_low|Take 001|BaseLayer
+  - first:
+      74: -791132746024575680
+    second: AC_2_armature|LargeGratingPlane_low|Take 001|BaseLayer
+  - first:
+      74: 59767601468456688
+    second: AC_2_armature|Light|Light|Cylinder.001Action|Light|Cylinder.001Action
+  - first:
+      74: 4265827321622986290
+    second: AC_2_armature|Light|Light|LightAction|Light|LightAction
+  - first:
+      74: -5455150331158704134
+    second: AC_2_armature|MainFrame_low|Take 001|BaseLayer
+  - first:
+      74: 1491313777703376271
+    second: AC_2_armature|MainTubeHor_low|Take 001|BaseLayer
+  - first:
+      74: -5589632143820479317
+    second: AC_2_armature|SmallGratingPlane_low|Take 001|BaseLayer
+  - first:
+      74: 9083338971717118551
+    second: AC_2_armature|VentHolder_low|Take 001|BaseLayer
+  - first:
+      74: -5270297834324367761
+    second: AC_2_armature|VentilatorTube_low|Take 001|BaseLayer
+  - first:
+      74: 3495994263396343916
+    second: AC_2_armature|VentPlane_low|Take 001|BaseLayer
+  - first:
+      74: -259666436772888332
+    second: AC_2_armature|WallHolderRight_low|Take 001|BaseLayer
+  externalObjects: {}
+  materials:
+    materialImportMode: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

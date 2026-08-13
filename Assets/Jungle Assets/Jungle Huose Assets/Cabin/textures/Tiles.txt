@@ -1,0 +1,17 @@
+
+wood_columns     X:5  Y:5
+
+window           X:1  Y:2
+
+walls_wood       X:10 Y:10
+
+roof             X:6  Y:6
+
+roof extra       X:2  Y:2
+
+Wood_plane       X:2  Y:2
+
+stonewall        X:10 Y:10
+
+
+

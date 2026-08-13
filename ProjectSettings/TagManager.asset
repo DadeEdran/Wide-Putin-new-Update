@@ -1,0 +1,90 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Shootable
+  - MainPlayer
+  - CinemachineTarget
+  - WayPoint
+  - Enemy
+  - WayPoint Musel01
+  - WayPoint Musle02
+  - WayPoint Musle03
+  - WayPoint Musle04
+  - WayPoint Musle05
+  - WayPoint Musle06
+  - WayPoint GunMan01
+  - WayPoint GunMan02
+  - WayPoint OldMan
+  - WayPoint OldMan01
+  - WayPoint SkinnyGuy1
+  - TestZlesk
+  - WayPoint SkinnyGuy02
+  - WayPoint Sadman
+  - WayPoint GunMan03
+  - WayPoint Sadman01
+  - WayPoint short1
+  - WayPoint short2
+  - WayPoint Ranger1
+  - WayPoint Ranger2
+  - WayPoint Ranger3
+  - WayPoint Ranger2 2
+  - WayPoint Ranger2 3
+  - WayPoint Ranger3 2
+  - WayPoint Ranger3 3
+  - WayPoint Ranger1 2
+  - WayPoint Ranger1 3
+  - WayPoint Gaurd 01
+  - WayPoint Gaurd 02
+  - WayPoint Gaurd 03
+  - WayPoint Gaurd 04
+  - WayPoint Gaurd 05
+  - WayPoint Gaurd 06
+  - Wood
+  - Stone
+  - Sand
+  - Metal
+  - Way point Sad man 02
+  - Enemy Mini Boss
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Lighting
+  - Ground
+  - Postprocessing
+  - Player
+  - MainPlayer
+  - NOTWALK
+  - Enamy
+  - WayPoint
+  - rig
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Fire
+    uniqueID: 3804908061
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
